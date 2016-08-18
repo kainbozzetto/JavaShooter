@@ -7,15 +7,6 @@ import org.lwjgl.opengl.DisplayMode;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.util.vector.Vector3f;
 
-
-// Client side functions are:
-// * Setting up and sending the input packet (packet to server)
-// * Receiving and processing the output packet (packet from server)
-// * Display and rendering graphics (main processed functions from output packet)
-// * Other client side functions such as menus and options
-//
-// Everything else is server side.
-
 public class Game {
 
 	// Screen width and height
