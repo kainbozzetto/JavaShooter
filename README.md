@@ -1,2 +1,2 @@
 # JavaShooter
-Top-down shooter written in Java
+Top-down shooter written in Java written in 2011.
